@@ -1,0 +1,20 @@
+[21/Apr/2022:22:22:10] (I): WordPress Instance Info:
+[21/Apr/2022:22:22:10] (I): Home URL : http://localhost/wordpress-ucenje
+[21/Apr/2022:22:22:10] (I): Site URL : http://localhost/wordpress-ucenje
+[21/Apr/2022:22:22:10] (I): WordPress Version : 5.9.3
+[21/Apr/2022:22:22:10] (I): Onboarding Version : 1.1.21
+[21/Apr/2022:22:22:10] (I): Multisite : No
+[21/Apr/2022:22:22:10] (I): Server Info : Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2
+[21/Apr/2022:22:22:10] (I): PHP Version : 8.1.2
+[21/Apr/2022:22:22:10] (I): HTTPS : No
+[21/Apr/2022:22:22:10] (I): PHP Max Execution Time : 120
+[21/Apr/2022:22:22:10] (I): PHP Max Input Vars : 1000
+[21/Apr/2022:22:22:10] (I): Max Upload Size : 41943040
+[21/Apr/2022:22:22:10] (I): Plugins:
+[21/Apr/2022:22:22:10] (I): [PLUGIN] Elementor : v3.6.4 (Elementor.com)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] File Manager Advanced : v4.1.3 (modalweb)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v2.0.1 (ThemeIsle)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] Real Media Library (Free) : v4.18.3 (devowl.io)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] TranslatePress - Multilingual : v2.2.5 (Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban)
+[21/Apr/2022:22:22:10] (I): [PLUGIN] WP Google Maps : v8.1.22 (WP Google Maps)
